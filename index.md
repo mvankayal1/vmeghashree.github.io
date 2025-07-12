@@ -1,5 +1,5 @@
 # Vankayal Megha Shree
-**St Louis, MO | (314) 910-0455 | meghavankayal@gmail.com | [LinkedIn](YOUR_LINKEDIN_URL)**
+**St Louis, MO | (314) 910-0455 | meghavankayal@gmail.com | [LinkedIn](https://www.linkedin.com/in/vmeghashree/)**
 
 ---
 
@@ -41,9 +41,9 @@ I am a Master's student in Computer Science at the State University of New York,
 
 ## Education
 *   **State University of New York, Binghamton**
-    *   Master of Science in Computer Science (Expected May 2025)
+    *   Master of Science in Computer Science (May 2025)
 
 ---
 
 ## Resume
-**[Download my full resume (PDF)](LINK_TO_YOUR_PDF_RESUME)**
+**[Download my full resume (PDF)](https://github.com/mvankayal1/vmeghashree.github.io/blob/main/Resume_Vankayal_Megha_Shree_2025.pdf)**
